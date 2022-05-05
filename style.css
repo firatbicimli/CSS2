@@ -1,0 +1,57 @@
+body {
+    margin: 7%;
+    padding: 0;
+}
+
+.G1 {
+    background-color: #eeeeee;
+    width: 1000px;
+    margin-left: 170px;
+}
+
+.G2 {
+    background-color: #7ee5da;
+    height: 150px;
+    width: 320px;
+    margin-left: 170px;
+    float: left;
+    font-size: 13px;
+    margin-right: 3%;
+}
+
+.G3 {
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 13px;
+}
+
+.alt {
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.G4 {
+    background-color: #70ccc2;
+    height: 150px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: 3%;
+    float: left;
+    font-size: 13px;
+}
+
+.G5 {
+    background-color: #62b3aa;
+    font-size: 13px;
+    margin-left: auto;
+    margin-right: 3%;
+    height: 150px;
+    width: 300px;
+    float: left;
+    
+}
+
+
+
+
